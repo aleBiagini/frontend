@@ -25,3 +25,12 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+# Customization applied
+
+The project is locally served on https. 
+
+To do that:
+- install local certificates using this tool https://github.com/FiloSottile/mkcert and insert them in "certs" folder
+- run the project always with npm start
+

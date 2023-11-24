@@ -1,0 +1,1 @@
+export const apiURI = "https://www.alebiagini.cloud/icle/graphql";
